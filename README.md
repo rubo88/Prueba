@@ -1,8 +1,8 @@
 Prueba
 # Paper 1:
- <The title of your paper>
+ Fiscal Externalities
 ### Author:
- <Your name and the name of your collaborators>
+ Veiga & Kredler 
 ### Topic:
- <What�s the paper about>
+ Federalism and Bailout
 ### Start date: 1st of March, 2018.
